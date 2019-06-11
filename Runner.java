@@ -18,3 +18,13 @@ public class Runner{
 	}
 
 }
+
+/*
+
+Ritika learned...
+-How to use lambdas to print out text
+-How to format output statement using printf
+-How to use GitKraken to manage files betwwen people
+-How to branch and merge files
+
+*/
