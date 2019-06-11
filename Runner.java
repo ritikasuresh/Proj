@@ -18,3 +18,12 @@ public class Runner{
 	}
 
 }
+
+/*
+Carter - 
+I learned:
+Git / GitHub / GitKraken
+Lamdas, how to use them and how they work
+How to navigate a Git and how to work with others on a project
+The interface of GitKraken
+*/
