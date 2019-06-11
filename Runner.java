@@ -20,10 +20,20 @@ public class Runner{
 }
 
 /*
+<<<<<<< HEAD
 Carter - 
 I learned:
 Git / GitHub / GitKraken
 Lamdas, how to use them and how they work
 How to navigate a Git and how to work with others on a project
 The interface of GitKraken
+=======
+
+Ritika learned...
+-How to use lambdas to print out text
+-How to format output statement using printf
+-How to use GitKraken to manage files betwwen people
+-How to branch and merge files
+
+>>>>>>> CommentsRitika
 */
